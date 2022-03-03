@@ -2,3 +2,11 @@
     font-style: italic;
     font-size: 80%;
 }
+
+img{
+    display: block;
+    border: solid BLACK 3px;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}

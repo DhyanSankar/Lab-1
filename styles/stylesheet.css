@@ -3,13 +3,12 @@ body{
     color:blanchedalmond
 }
 
-h1, h2{
+h1, h2, .center{
     text-align: center;
 }
 
 h1{
     color:rgb(132, 196, 206);
-    border: solid BLACK 3px;
     
 }
 
@@ -20,15 +19,4 @@ h2{
 
 a{
     color:aqua;
-}
-
-.center{
-    text-align: center;
-}
-
-img{
-    border: solid BLACK 3px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
 }
